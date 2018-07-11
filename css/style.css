@@ -1,0 +1,52 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+	font-weight: 300;
+}
+
+.text-muted{
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+
+.title-super {
+	font-size: 40px;
+}
+
+.logo {
+	margin-top: 20px;
+    width: 56px;
+    height: auto;
+}
+
+.cover-row {
+    margin-bottom: 40px;
+}
+
+.projects h2 {
+    margin-bottom: 30px;
+    color: #7d97ad;
+}
+
+.projects p {
+    padding-top: 10px;
+    text-align: justify;
+}
+
+.projects a {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.project-rows img {
+    margin: auto;
+}
+
+.project-rows div {
+    margin-bottom: 40px;
+}
+
